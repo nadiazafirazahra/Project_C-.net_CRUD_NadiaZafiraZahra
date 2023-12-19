@@ -1,0 +1,16 @@
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.csproj.AssemblyReference.cache
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.AssemblyInfoInputs.cache
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.AssemblyInfo.cs
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.csproj.CoreCompileInputs.cache
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.exe
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.deps.json
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.runtimeconfig.json
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.runtimeconfig.dev.json
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.dll
+E:\Pemrograman C#.net\bin\Debug\net5.0\Pemrograman C#.net.pdb
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.dll
+E:\Pemrograman C#.net\obj\Debug\net5.0\ref\Pemrograman C#.net.dll
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.pdb
+E:\Pemrograman C#.net\obj\Debug\net5.0\Pemrograman C#.net.genruntimeconfig.cache
+E:\Pemrograman C#.net\obj\Debug\net5.0\refint\Pemrograman C#.net.dll
